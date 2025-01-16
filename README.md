@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c4808c3f-ba74-46a3-985b-13d68e6c49e8)
+
+
 # Character AI: Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
 
 <a href="#"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Gradio%20Demo-Huggingface-orange"></a>
@@ -6,7 +9,7 @@ We are stealth launching on Pump.Fun on 16.1.2025. Official ca will be posted on
 
 Developer wallet will be: A4q5rSdPksR7wgVt8wZseDCkQi9Tq1TqYoQpMWz1vhn6
 
-![teaser](./materials/teaser.png)
+
 
 - [x] Rendering Script of VRM model, including blender and three-js.
 - [x] Inference code for 2D generation stage.
