@@ -9,6 +9,8 @@ We are stealth launching on Pump.Fun on 16.1.2025. Official ca will be posted on
 
 Developer wallet will be: A4q5rSdPksR7wgVt8wZseDCkQi9Tq1TqYoQpMWz1vhn6
 
+OFFICIAL IS CA: GsGuxsEEsFs1TZcUU9qTjZUYYQv2uaAUAoPu98aKpump
+
 
 
 - [x] Rendering Script of VRM model, including blender and three-js.
