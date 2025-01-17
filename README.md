@@ -7,7 +7,7 @@
 
 We are stealth launching on Pump.Fun on 16.1.2025. Official ca will be posted on our X (https://x.com/CharacterAIsol) after launch.
 
-Developer wallet will be: Gf3FBLvmuUHXYrfxpH9GBEZ3118cAbTxwKWd4mziQQwQ
+Developer wallet will be: yTA9ir3cKewkvDvvWqNbfQbYtvKdHyJGkGUTMqUv8YA
 
 OFFICIAL CA: Coming Soon
 
